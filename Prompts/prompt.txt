@@ -1,0 +1,70 @@
+Create a modern and professional website for a local beauty salon named "GlowUp Beauty Salon" located in Warangal.
+
+Website Requirements:
+- Elegant and modern UI
+- Pink, white, and soft pastel color theme
+- Mobile-friendly responsive design
+- Smooth scrolling sections
+- Professional salon branding
+
+Include these sections:
+
+1. Hero Section
+- Headline:
+  "Bring Out Your Best Look with GlowUp Beauty Salon"
+- Subheadline:
+  "Professional beauty and self-care services designed to help you look confident and beautiful every day."
+- Add a “Book Appointment” button
+
+2. About Section
+Describe the salon as a trusted beauty destination offering:
+- Haircare
+- Skincare
+- Bridal makeup
+- Spa services
+
+3. Services Section
+Include service cards for:
+- Haircut & Styling
+- Bridal Makeup
+- Facial Treatments
+- Hair Spa
+- Manicure & Pedicure
+- Waxing & Threading
+
+4. Why Choose Us
+Add points:
+- Experienced beauty professionals
+- Hygienic environment
+- Affordable pricing
+- Premium beauty products
+- Friendly staff
+
+5. Testimonials Section
+Add 3 customer reviews with realistic names and positive feedback.
+
+6. CTA Section
+Headline:
+"Ready for Your Transformation?"
+Button:
+"Book Now"
+
+7. Contact Section
+Include:
+- Location: Hanamkonda, Warangal
+- Phone number
+- Working hours
+- Contact form
+
+8. Footer
+Include:
+- Social media icons
+- Copyright text
+- Quick navigation links
+
+Design Style:
+- Modern salon website
+- Soft shadows and rounded cards
+- Elegant typography
+- High-quality beauty salon images
+- Smooth animations
