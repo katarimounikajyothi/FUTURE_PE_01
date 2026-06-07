@@ -1,17 +1,17 @@
-# GlowUp Beauty Salon
+ GlowUp Beauty Salon
 
-## Bring Out Your Best Look
+ Bring Out Your Best Look
 
 Professional beauty and self-care services in Warangal.
 
-### Services
+ Services
 - Hair Styling
 - Bridal Makeup
 - Facials
 - Hair Spa
 - Manicure & Pedicure
 
-### Why Choose Us
+ Why Choose Us
 - Experienced Staff
 - Hygienic Salon
 - Affordable Pricing
